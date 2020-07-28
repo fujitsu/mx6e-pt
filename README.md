@@ -1,4 +1,4 @@
-# m46e-pt
+# mx6e-pt
 m46e-pt application implementation
 
 ## spec
