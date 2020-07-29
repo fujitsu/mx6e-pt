@@ -10,4 +10,4 @@ https://www.ietf.org/proceedings/87/slides/slides-87-softwire-20.pdf<br>
 87th IETF Berlin, July 2013<br>
 
 ## contact
-matsuhira@jp.fujitsu.com
+m46-me6-mslb-contact@googlegroups.com
